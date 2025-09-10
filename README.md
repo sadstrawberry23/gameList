@@ -1,4 +1,4 @@
 #GameList
 <div align="center">
-    <img src = "preview.png" width="720"
+    <img src = "preview.png" width="720">
 <div>
