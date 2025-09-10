@@ -6,10 +6,10 @@ struct ContentView: View {
                                 .init(name: "PC", imageName: "pc", color: .pink),
                                 .init(name: "Mobile", imageName: "iphone.gen2", color: .mint)]
     
-    var games: [Game] = [.init(name: "Minecraft", rating: "100"),
+    var games: [Game] = [.init(name: "CS:GO", rating: "100"),
                          .init(name: "God Of War", rating: "100"),
                          .init(name: "Dota 2", rating: "100"),
-                         .init(name: "Fortnite", rating: "100")]
+                         .init(name: "LoL", rating: "100")]
     
     @State private var path = NavigationPath()
     
